@@ -1,0 +1,28 @@
+html{
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: blue;
+    
+}
+body{
+    width: 60%;
+    margin: 0 auto;
+    height: 600px;
+    padding: 0px 20px 20px 20px;
+    background-color: orange;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+    font-weight: 100;
+}
+img{
+    display: block;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    padding-top: 5px;
+    color: blue;
+    text-shadow: 3px 3px 1px black;
+}
